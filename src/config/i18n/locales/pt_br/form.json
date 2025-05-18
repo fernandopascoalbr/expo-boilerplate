@@ -1,0 +1,17 @@
+{
+  "email": "E-mail",
+  "password": "Senha",
+  "confirm_password": "Confirme a senha",
+  "login": "Entrar",
+  "register": "Cadastrar",
+  "name": "Nome",
+  "close": "Fechar",
+  "errors": {
+    "required_string": "Este campo é obrigatório",
+    "invalid_type": "Tipo inválido",
+    "invalid_email": "E-mail inválido",
+    "invalid_string": "Texto inválido",
+    "too_short": "Mínimo de {{min}} caracteres",
+    "default": "Valor inválido"
+  }
+}

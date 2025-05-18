@@ -1,0 +1,17 @@
+{
+  "email": "E-mail",
+  "password": "Password",
+  "confirm_password": "Confirm your password",
+  "login": "Login",
+  "register": "Register",
+  "name": "Name",
+  "close": "Close",
+  "errors": {
+    "required_string": "Required field",
+    "invalid_type": "Invalid type",
+    "invalid_email": "Invalid email",
+    "invalid_string": "Invalid text",
+    "too_short": "Minimum of {{min}} characters",
+    "default": "Invalid value"
+  }
+}

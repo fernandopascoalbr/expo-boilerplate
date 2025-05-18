@@ -1,0 +1,19 @@
+{
+  "build": {
+    "development": {
+      "env": {
+        "API_URL": "https://dev.api.com"
+      }
+    },
+    "preview": {
+      "env": {
+        "API_URL": "https://staging.api.com"
+      }
+    },
+    "production": {
+      "env": {
+        "API_URL": "https://prod.api.com"
+      }
+    }
+  }
+}

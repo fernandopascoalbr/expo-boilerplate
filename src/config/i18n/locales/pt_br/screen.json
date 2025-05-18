@@ -1,0 +1,10 @@
+{
+  "login": {
+    "or_login_with": "ou entre com",
+    "no_account_register": "Não tem conta? Registre-se"
+  },
+  "register": {
+    "or_register_with": "ou registre-se com",
+    "already_have_account": "Já tem conta? Entre"
+  }
+}
