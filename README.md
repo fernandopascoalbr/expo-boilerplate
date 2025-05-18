@@ -132,7 +132,9 @@ npx expo start
 
 Este boilerplate está disponível sob a licença MIT e pode ser usado livremente em projetos pessoais e comerciais.
 
-## To Watch
+## Theme
+
+O expo tem um helper para criar o tema utilizado na aplicação, você pode acessar [aqui](https://callstack.github.io/react-native-paper/docs/guides/theming/#creating-dynamic-theme-colors)
 
 ## Warnings web console
 
